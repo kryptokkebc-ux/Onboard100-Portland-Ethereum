@@ -25,6 +25,6 @@ Onboard 100 participants to create and secure their first wallets via 4 interact
 ## License 
 MIT License - Free to fork, use, adapt.
 ## Proposal 
-[Full proposal Google Doc link - add after Step 2]
+[Full proposa](https://docs.google.com/document/d/19Od_RdKgpcTInwNg5m1FB2HIq0DTE0ePdUWJ_Atu5A4/edit?usp=sharing)
 ## Contact
 kryptokkebc-ux
